@@ -1,0 +1,2 @@
+- [x] Create todo list
+- [] Choose coding language 
